@@ -38,12 +38,6 @@ The goal is to provide **actionable insights for lenders**, helping them make in
 
 ---
 
-## 📊 Interactive Dashboard
-Built using **Plotly**, showing:
-- **Pie chart** – Distribution of borrowers by risk tier  
-- **Scatter plot** – Income vs predicted default probability  
-- **Histogram** – Predicted default probability distribution  
-- **Top High-Risk Borrowers Table** – Shows borrowers with highest predicted risk  
 
 > Fully interactive and **runs directly in Jupyter Notebook**. No additional packages required beyond Plotly.
 
